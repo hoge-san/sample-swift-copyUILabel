@@ -62,4 +62,4 @@ class CopyUILabel: UILabel {
 ---
 # 参考文献
 - Apple公式マニュアル [canPerformAction](https://developer.apple.com/documentation/uikit/uiresponder/1621105-canperformaction)
-- Apple公式マニュアル [canBecomeFirstResponder] (https://developer.apple.com/documentation/uikit/uiresponder/1621130-canbecomefirstresponder)
+- Apple公式マニュアル [canBecomeFirstResponder](https://developer.apple.com/documentation/uikit/uiresponder/1621130-canbecomefirstresponder)
